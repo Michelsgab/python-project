@@ -34,3 +34,13 @@ print(numeros[::2])
 print(numeros[1::2])
 print(numeros[::-1])
 print(numeros[::-2])
+
+# Part 3
+frase = 'Python é uma excelente linguagem de programação'
+print('Py' in frase)
+print(len(frase))
+print(frase.upper())
+print(frase.lower())
+
+print(frase.split())
+print(frase.split('e'))
