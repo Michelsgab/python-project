@@ -16,3 +16,7 @@ print(c1)
 print(c2 <= c1)
 
 {1, 2, 3} - {2}
+
+# Conjunto não é indexado
+# Não garante ordenação
+# Não aceita repetição
