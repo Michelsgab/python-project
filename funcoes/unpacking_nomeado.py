@@ -10,3 +10,4 @@ def resultado_f1(primeiro, segundo, terceiro):
 if __name__ == '__main__':
     podium = {'primeiro': 'L.Hamilton', 'segundo': 'M.Verstappen', 'terceiro': 'S.Vettel'}
     resultado_f1(**podium)
+
